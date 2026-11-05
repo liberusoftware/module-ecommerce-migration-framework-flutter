@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-migration-framework-flutter",
+  "capabilityKey": "planned:ecommerce:migration-framework",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_migration_framework_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/migration-framework.md",
+  "presentationPlan": "projects/ecommerce/flutter/migration-framework.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
